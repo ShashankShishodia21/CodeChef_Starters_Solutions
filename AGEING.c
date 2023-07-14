@@ -2,7 +2,7 @@
 
 int main(void) {
 	// your code goes here
-		int t;
+	int t;
 	scanf("%d",&t);
 	while(t--){
 	    int x,y,z;
