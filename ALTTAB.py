@@ -18,5 +18,4 @@ for _ in range(N):
 # Get the alt + tab order
 alt_tab_order = get_alt_tab_order(programs)
 
-# Print the result in reverse order
 print(alt_tab_order)
