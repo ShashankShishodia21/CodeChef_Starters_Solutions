@@ -9,7 +9,6 @@ def get_alt_tab_order(programs):
 
     return order
 
-# Read input
 N = int(input())
 programs = []
 for _ in range(N):
