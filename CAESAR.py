@@ -1,4 +1,4 @@
-# cook your dish here
+
 def rotate_string(string, k):
     rotated_string = ""
     for char in string:
