@@ -24,8 +24,6 @@ def find_rot_k_cipher(q):
         print(rot_k_cipher)
 
 
-# Read the number of queries
 num_queries = int(input())
 
-# Solve the problem
 find_rot_k_cipher(num_queries)
