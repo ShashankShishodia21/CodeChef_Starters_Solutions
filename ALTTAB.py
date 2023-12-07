@@ -15,7 +15,6 @@ for _ in range(N):
     program = input().strip()
     programs.append(program)
 
-# Get the alt + tab order
 alt_tab_order = get_alt_tab_order(programs)
 
 print(alt_tab_order)
