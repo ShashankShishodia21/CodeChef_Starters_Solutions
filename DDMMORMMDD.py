@@ -11,11 +11,11 @@ t = int(input())
 
 
 for i in range(t):
-    # input the date string
+    
     date_str = input()
     
-    # identify the date format
+    
     date_format = identify_date_format(date_str)
     
-    # print the result
+    
     print(date_format)
