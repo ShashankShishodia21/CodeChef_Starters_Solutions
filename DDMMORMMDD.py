@@ -7,10 +7,9 @@ def identify_date_format(date_str):
     else:
         return "BOTH"
 
-# input the number of test cases
 t = int(input())
 
-# loop over the test cases
+
 for i in range(t):
     # input the date string
     date_str = input()
