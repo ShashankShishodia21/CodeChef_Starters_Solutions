@@ -1,10 +1,8 @@
-# cook your dish here
+
 import sys
 
-# Number of test cases
 num_test_cases = int(input())
 
-# Loop over each test case
 for i in range(num_test_cases):
     
 
