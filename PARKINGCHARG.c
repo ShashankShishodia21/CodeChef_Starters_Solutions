@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-	// your code goes here
 	int x,y,h,ans;
 	scanf("%d %d %d",&x,&y,&h);
 	if(h>1){
